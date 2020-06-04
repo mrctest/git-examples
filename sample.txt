@@ -1,4 +1,8 @@
 Hello World!
+*
 Adding this line after committing file to local git repo
-***
+*
 Added this line after pushing file to gitHub repo
+*
+This line added after creating new branch my-feature
+*
